@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+typa shih im on lately
